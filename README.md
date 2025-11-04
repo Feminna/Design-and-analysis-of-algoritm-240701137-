@@ -37,10 +37,10 @@ Each lab covers key algorithmic concepts, their design, analysis, and efficient 
 
 ### 👩‍💻 **Author**
 
-**Name:** Feminna\n
-**Register No:** 240701137\n
-**Course:** B.E. Computer Science and Engineering\n
-**Institution:** Rajalakshmi Engineering College
+* **Name:** Feminna
+* **Register No:** 240701137
+* **Course:** B.E. Computer Science and Engineering
+* **Institution:** Rajalakshmi Engineering College
 
 ---
 
